@@ -52,6 +52,7 @@ Enter 1, 2 or 3:
 ```
 
 📌 Example
+```
 ➡️ Text Input:
 Hello, my name is Satyam! I'm 18 years old.
 
@@ -63,6 +64,7 @@ Hello, my name is Satyam! I'm 18 years old.
 
 🧾 Text Output:
 HELLO WORLD
+```
 
 🧩 Supported Characters
 1.Alphabets: A–Z
@@ -76,8 +78,8 @@ HELLO WORLD
 • No external libraries
 
 📁 File Structure
-📂 Morse-Code-Translator
 ```
+📂 Morse-Code-Translator
 ├── morse_translator.py   # Main program file
 └── README.md             # Project documentation
 ```

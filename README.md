@@ -1,3 +1,5 @@
+![Morse-Code-Translator](https://socialify.git.ci/SatyamPrakash09/Morse-Code-Translator/image?custom_description=A+simple+yet+powerful+Python+CLI+tool+to+convert+English+text+to+Morse+code+and+decode+Morse+back+to+text.+Built+for+learning%2C+testing%2C+and+fun%21%21&description=1&font=JetBrains+Mono&language=1&name=1&owner=1&pattern=Plus&theme=Dark)
+
 # Morse Code Translator 🔡 ⇄ 🟩
 
 A simple yet powerful Python CLI tool to **convert English text to Morse code** and **decode Morse back to text**. Built for learning, testing, and fun!

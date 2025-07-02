@@ -77,8 +77,10 @@ HELLO WORLD
 
 📁 File Structure
 📂 Morse-Code-Translator
+```
 ├── morse_translator.py   # Main program file
 └── README.md             # Project documentation
+```
 
 📚 Learn Morse Code (Cheat Sheet):
 | Letter | Morse | Letter | Morse | Number | Morse |
